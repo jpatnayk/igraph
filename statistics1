@@ -14,3 +14,4 @@ samp
 sum(na.omit(samp))
 cumsum(na.omit(samp))
 fix(samp)
+samp <- na.omit(samp)
